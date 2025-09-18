@@ -4,3 +4,4 @@ Now I changed this file!
 test
 Git has a mutable index called stage.
 Git tracks changes of file.
+create a new branch dev.
